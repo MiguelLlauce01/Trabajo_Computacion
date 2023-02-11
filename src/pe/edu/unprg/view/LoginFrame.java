@@ -22,7 +22,7 @@ public class LoginFrame extends javax.swing.JFrame {
      * Creates new form Login
      */
     
-    //
+    //Creamos un objeto de la clase Usuario JpaController
     private UsuarioJpaController ejc = new UsuarioJpaController ();
     private Usuario usuario; 
     
